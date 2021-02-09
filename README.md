@@ -1,0 +1,1 @@
+This is the repo I'm using for statistics exercises and the ds-review-hub.github.io review notebook work during the Easley cohort.
